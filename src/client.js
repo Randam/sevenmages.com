@@ -1,0 +1,2 @@
+const button=document.querySelector('.menu-button');const menu=document.querySelector('.mobile-menu');
+if(button&&menu){const close=()=>{menu.hidden=true;button.setAttribute('aria-expanded','false')};button.addEventListener('click',()=>{menu.hidden=!menu.hidden;button.setAttribute('aria-expanded',String(!menu.hidden))});menu.addEventListener('click',e=>{if(e.target.closest('a'))close()});document.addEventListener('keydown',e=>{if(e.key==='Escape'){close();button.focus()}});matchMedia('(min-width: 761px)').addEventListener('change',close)}
