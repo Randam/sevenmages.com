@@ -680,5 +680,123 @@
       }
     ],
     "originalBytes": 28668
+  },
+  "avalon-arena-return.jpg": {
+    "width": 1254,
+    "height": 1254,
+    "avif": [
+      {
+        "url": "/assets/responsive/avalon-arena-return-400.avif",
+        "width": 400,
+        "bytes": 41831
+      },
+      {
+        "url": "/assets/responsive/avalon-arena-return-640.avif",
+        "width": 640,
+        "bytes": 73730
+      },
+      {
+        "url": "/assets/responsive/avalon-arena-return-960.avif",
+        "width": 960,
+        "bytes": 118552
+      },
+      {
+        "url": "/assets/responsive/avalon-arena-return-1254.avif",
+        "width": 1254,
+        "bytes": 170799
+      }
+    ],
+    "webp": [
+      {
+        "url": "/assets/responsive/avalon-arena-return-400.webp",
+        "width": 400,
+        "bytes": 62256
+      },
+      {
+        "url": "/assets/responsive/avalon-arena-return-640.webp",
+        "width": 640,
+        "bytes": 106628
+      },
+      {
+        "url": "/assets/responsive/avalon-arena-return-960.webp",
+        "width": 960,
+        "bytes": 161762
+      },
+      {
+        "url": "/assets/responsive/avalon-arena-return-1254.webp",
+        "width": 1254,
+        "bytes": 217054
+      }
+    ],
+    "originalBytes": 428924
+  },
+  "avalon-arena-development.jpg": {
+    "width": 1760,
+    "height": 720,
+    "avif": [
+      {
+        "url": "/assets/responsive/avalon-arena-development-400.avif",
+        "width": 400,
+        "bytes": 14191
+      },
+      {
+        "url": "/assets/responsive/avalon-arena-development-640.avif",
+        "width": 640,
+        "bytes": 32614
+      },
+      {
+        "url": "/assets/responsive/avalon-arena-development-960.avif",
+        "width": 960,
+        "bytes": 65481
+      },
+      {
+        "url": "/assets/responsive/avalon-arena-development-1280.avif",
+        "width": 1280,
+        "bytes": 103907
+      },
+      {
+        "url": "/assets/responsive/avalon-arena-development-1600.avif",
+        "width": 1600,
+        "bytes": 144518
+      },
+      {
+        "url": "/assets/responsive/avalon-arena-development-1760.avif",
+        "width": 1760,
+        "bytes": 166549
+      }
+    ],
+    "webp": [
+      {
+        "url": "/assets/responsive/avalon-arena-development-400.webp",
+        "width": 400,
+        "bytes": 17446
+      },
+      {
+        "url": "/assets/responsive/avalon-arena-development-640.webp",
+        "width": 640,
+        "bytes": 42096
+      },
+      {
+        "url": "/assets/responsive/avalon-arena-development-960.webp",
+        "width": 960,
+        "bytes": 84514
+      },
+      {
+        "url": "/assets/responsive/avalon-arena-development-1280.webp",
+        "width": 1280,
+        "bytes": 134704
+      },
+      {
+        "url": "/assets/responsive/avalon-arena-development-1600.webp",
+        "width": 1600,
+        "bytes": 188250
+      },
+      {
+        "url": "/assets/responsive/avalon-arena-development-1760.webp",
+        "width": 1760,
+        "bytes": 212260
+      }
+    ],
+    "originalBytes": 334018
   }
 }
