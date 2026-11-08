@@ -56,3 +56,11 @@ Cloudflare changes should affect only website records at the apex and `www`. Pre
 Brand mark: user-supplied white `sevenmages.png`, preserved in `public/assets/sevenmages-white.png`.
 
 Game artwork and content: existing Seven Mages / Avalon materials. The wide homepage artwork was adapted with the built-in ImageGen tool in the concept phase: remove only the Avalon and Legacy Edition lettering, continue the surrounding forest/mountains/sky, preserve the existing characters, castle, village, colours and composition. The web delivery asset is `public/assets/avalon-world-no-title.webp`; original PNG retained. This is marketing art, not a gameplay screenshot. Social cards use SVG typography with existing artwork and the supplied logo; no additional generated game scenes.
+
+## Responsive image delivery
+
+Run `npm run images` after adding or replacing a source image, then `npm test`. The preprocessing script generates high-quality AVIF and WebP width variants under `public/assets/responsive/` and records them in `content/responsive-images.json`. Add a new source filename to `scripts/images.mjs` when introducing a new content image.
+
+The homepage has a dedicated portrait crop for narrow screens. The crop follows the existing background position; it avoids sending the unused landscape area to phones. Desktop keeps the full landscape composition. Hero/detail/article images load eagerly; below-the-fold imagery loads lazily. All variants retain intrinsic dimensions and async decoding. Original assets and social JPEG cards remain available. The original small pixel-art screenshots stay unchanged when conversion would increase their size.
+
+Search Console: the domain property `sc-domain:sevenmages.com` was verified on 8 November 2026, and `https://sevenmages.com/sitemap.xml` was submitted successfully. The verification TXT record is held in Cloudflare; keep it in place. Search Console periodically rereads the same sitemap URL as pages are added. Successful submission does not guarantee immediate indexing.

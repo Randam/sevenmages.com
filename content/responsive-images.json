@@ -1,0 +1,684 @@
+{
+  "avalon-world-no-title.png": {
+    "width": 1672,
+    "height": 941,
+    "avif": [
+      {
+        "url": "/assets/responsive/avalon-world-no-title-400.avif",
+        "width": 400,
+        "bytes": 37033
+      },
+      {
+        "url": "/assets/responsive/avalon-world-no-title-640.avif",
+        "width": 640,
+        "bytes": 85543
+      },
+      {
+        "url": "/assets/responsive/avalon-world-no-title-960.avif",
+        "width": 960,
+        "bytes": 162486
+      },
+      {
+        "url": "/assets/responsive/avalon-world-no-title-1280.avif",
+        "width": 1280,
+        "bytes": 240233
+      },
+      {
+        "url": "/assets/responsive/avalon-world-no-title-1600.avif",
+        "width": 1600,
+        "bytes": 317065
+      },
+      {
+        "url": "/assets/responsive/avalon-world-no-title-1672.avif",
+        "width": 1672,
+        "bytes": 334923
+      }
+    ],
+    "webp": [
+      {
+        "url": "/assets/responsive/avalon-world-no-title-400.webp",
+        "width": 400,
+        "bytes": 48778
+      },
+      {
+        "url": "/assets/responsive/avalon-world-no-title-640.webp",
+        "width": 640,
+        "bytes": 116562
+      },
+      {
+        "url": "/assets/responsive/avalon-world-no-title-960.webp",
+        "width": 960,
+        "bytes": 232542
+      },
+      {
+        "url": "/assets/responsive/avalon-world-no-title-1280.webp",
+        "width": 1280,
+        "bytes": 354970
+      },
+      {
+        "url": "/assets/responsive/avalon-world-no-title-1600.webp",
+        "width": 1600,
+        "bytes": 474628
+      },
+      {
+        "url": "/assets/responsive/avalon-world-no-title-1672.webp",
+        "width": 1672,
+        "bytes": 497690
+      }
+    ],
+    "originalBytes": 2962931,
+    "mobile": {
+      "avif": [
+        {
+          "url": "/assets/responsive/avalon-hero-portrait-400.avif",
+          "width": 400,
+          "bytes": 75776
+        },
+        {
+          "url": "/assets/responsive/avalon-hero-portrait-529.avif",
+          "width": 529,
+          "bytes": 107236
+        }
+      ],
+      "webp": [
+        {
+          "url": "/assets/responsive/avalon-hero-portrait-400.webp",
+          "width": 400,
+          "bytes": 107408
+        },
+        {
+          "url": "/assets/responsive/avalon-hero-portrait-529.webp",
+          "width": 529,
+          "bytes": 152522
+        }
+      ]
+    }
+  },
+  "avalon-world-no-title.webp": {
+    "width": 1672,
+    "height": 941,
+    "avif": [
+      {
+        "url": "/assets/responsive/avalon-world-no-title-400.avif",
+        "width": 400,
+        "bytes": 37033
+      },
+      {
+        "url": "/assets/responsive/avalon-world-no-title-640.avif",
+        "width": 640,
+        "bytes": 85543
+      },
+      {
+        "url": "/assets/responsive/avalon-world-no-title-960.avif",
+        "width": 960,
+        "bytes": 162486
+      },
+      {
+        "url": "/assets/responsive/avalon-world-no-title-1280.avif",
+        "width": 1280,
+        "bytes": 240233
+      },
+      {
+        "url": "/assets/responsive/avalon-world-no-title-1600.avif",
+        "width": 1600,
+        "bytes": 317065
+      },
+      {
+        "url": "/assets/responsive/avalon-world-no-title-1672.avif",
+        "width": 1672,
+        "bytes": 334923
+      }
+    ],
+    "webp": [
+      {
+        "url": "/assets/responsive/avalon-world-no-title-400.webp",
+        "width": 400,
+        "bytes": 48778
+      },
+      {
+        "url": "/assets/responsive/avalon-world-no-title-640.webp",
+        "width": 640,
+        "bytes": 116562
+      },
+      {
+        "url": "/assets/responsive/avalon-world-no-title-960.webp",
+        "width": 960,
+        "bytes": 232542
+      },
+      {
+        "url": "/assets/responsive/avalon-world-no-title-1280.webp",
+        "width": 1280,
+        "bytes": 354970
+      },
+      {
+        "url": "/assets/responsive/avalon-world-no-title-1600.webp",
+        "width": 1600,
+        "bytes": 474628
+      },
+      {
+        "url": "/assets/avalon-world-no-title.webp",
+        "width": 1672,
+        "bytes": 471496
+      }
+    ],
+    "originalBytes": 2962931,
+    "mobile": {
+      "avif": [
+        {
+          "url": "/assets/responsive/avalon-hero-portrait-400.avif",
+          "width": 400,
+          "bytes": 75776
+        },
+        {
+          "url": "/assets/responsive/avalon-hero-portrait-529.avif",
+          "width": 529,
+          "bytes": 107236
+        }
+      ],
+      "webp": [
+        {
+          "url": "/assets/responsive/avalon-hero-portrait-400.webp",
+          "width": 400,
+          "bytes": 107408
+        },
+        {
+          "url": "/assets/responsive/avalon-hero-portrait-529.webp",
+          "width": 529,
+          "bytes": 152522
+        }
+      ]
+    }
+  },
+  "avalon.jpg": {
+    "width": 1920,
+    "height": 1080,
+    "avif": [
+      {
+        "url": "/assets/responsive/avalon-400.avif",
+        "width": 400,
+        "bytes": 38044
+      },
+      {
+        "url": "/assets/responsive/avalon-640.avif",
+        "width": 640,
+        "bytes": 83761
+      },
+      {
+        "url": "/assets/responsive/avalon-960.avif",
+        "width": 960,
+        "bytes": 158225
+      },
+      {
+        "url": "/assets/responsive/avalon-1280.avif",
+        "width": 1280,
+        "bytes": 236657
+      },
+      {
+        "url": "/assets/responsive/avalon-1600.avif",
+        "width": 1600,
+        "bytes": 317549
+      },
+      {
+        "url": "/assets/responsive/avalon-1920.avif",
+        "width": 1920,
+        "bytes": 413523
+      }
+    ],
+    "webp": [
+      {
+        "url": "/assets/responsive/avalon-400.webp",
+        "width": 400,
+        "bytes": 50270
+      },
+      {
+        "url": "/assets/responsive/avalon-640.webp",
+        "width": 640,
+        "bytes": 113302
+      },
+      {
+        "url": "/assets/responsive/avalon-960.webp",
+        "width": 960,
+        "bytes": 225604
+      },
+      {
+        "url": "/assets/responsive/avalon-1280.webp",
+        "width": 1280,
+        "bytes": 345144
+      },
+      {
+        "url": "/assets/responsive/avalon-1600.webp",
+        "width": 1600,
+        "bytes": 456462
+      },
+      {
+        "url": "/assets/responsive/avalon-1920.webp",
+        "width": 1920,
+        "bytes": 597154
+      }
+    ],
+    "originalBytes": 931624
+  },
+  "avalon-keyart.webp": {
+    "width": 1930,
+    "height": 1086,
+    "avif": [
+      {
+        "url": "/assets/responsive/avalon-keyart-400.avif",
+        "width": 400,
+        "bytes": 23223
+      },
+      {
+        "url": "/assets/responsive/avalon-keyart-640.avif",
+        "width": 640,
+        "bytes": 49992
+      },
+      {
+        "url": "/assets/responsive/avalon-keyart-960.avif",
+        "width": 960,
+        "bytes": 97467
+      },
+      {
+        "url": "/assets/responsive/avalon-keyart-1280.avif",
+        "width": 1280,
+        "bytes": 147986
+      },
+      {
+        "url": "/assets/responsive/avalon-keyart-1600.avif",
+        "width": 1600,
+        "bytes": 191027
+      },
+      {
+        "url": "/assets/responsive/avalon-keyart-1930.avif",
+        "width": 1930,
+        "bytes": 275263
+      }
+    ],
+    "webp": [
+      {
+        "url": "/assets/responsive/avalon-keyart-400.webp",
+        "width": 400,
+        "bytes": 28530
+      },
+      {
+        "url": "/assets/responsive/avalon-keyart-640.webp",
+        "width": 640,
+        "bytes": 65032
+      },
+      {
+        "url": "/assets/responsive/avalon-keyart-960.webp",
+        "width": 960,
+        "bytes": 130958
+      },
+      {
+        "url": "/assets/responsive/avalon-keyart-1280.webp",
+        "width": 1280,
+        "bytes": 204498
+      },
+      {
+        "url": "/assets/responsive/avalon-keyart-1600.webp",
+        "width": 1600,
+        "bytes": 272578
+      },
+      {
+        "url": "/assets/avalon-keyart.webp",
+        "width": 1930,
+        "bytes": 280268
+      }
+    ],
+    "originalBytes": 280268
+  },
+  "penguin.jpg": {
+    "width": 1920,
+    "height": 1080,
+    "avif": [
+      {
+        "url": "/assets/responsive/penguin-400.avif",
+        "width": 400,
+        "bytes": 7777
+      },
+      {
+        "url": "/assets/responsive/penguin-640.avif",
+        "width": 640,
+        "bytes": 14153
+      },
+      {
+        "url": "/assets/responsive/penguin-960.avif",
+        "width": 960,
+        "bytes": 24000
+      },
+      {
+        "url": "/assets/responsive/penguin-1280.avif",
+        "width": 1280,
+        "bytes": 33433
+      },
+      {
+        "url": "/assets/responsive/penguin-1600.avif",
+        "width": 1600,
+        "bytes": 44130
+      },
+      {
+        "url": "/assets/responsive/penguin-1920.avif",
+        "width": 1920,
+        "bytes": 57903
+      }
+    ],
+    "webp": [
+      {
+        "url": "/assets/responsive/penguin-400.webp",
+        "width": 400,
+        "bytes": 10860
+      },
+      {
+        "url": "/assets/responsive/penguin-640.webp",
+        "width": 640,
+        "bytes": 19568
+      },
+      {
+        "url": "/assets/responsive/penguin-960.webp",
+        "width": 960,
+        "bytes": 33678
+      },
+      {
+        "url": "/assets/responsive/penguin-1280.webp",
+        "width": 1280,
+        "bytes": 46182
+      },
+      {
+        "url": "/assets/responsive/penguin-1600.webp",
+        "width": 1600,
+        "bytes": 61570
+      },
+      {
+        "url": "/assets/responsive/penguin-1920.webp",
+        "width": 1920,
+        "bytes": 74918
+      }
+    ],
+    "originalBytes": 100772
+  },
+  "penguinbox.jpg": {
+    "width": 1024,
+    "height": 585,
+    "avif": [
+      {
+        "url": "/assets/responsive/penguinbox-400.avif",
+        "width": 400,
+        "bytes": 30446
+      },
+      {
+        "url": "/assets/responsive/penguinbox-640.avif",
+        "width": 640,
+        "bytes": 58627
+      },
+      {
+        "url": "/assets/responsive/penguinbox-960.avif",
+        "width": 960,
+        "bytes": 106809
+      },
+      {
+        "url": "/assets/responsive/penguinbox-1024.avif",
+        "width": 1024,
+        "bytes": 120797
+      }
+    ],
+    "webp": [
+      {
+        "url": "/assets/responsive/penguinbox-400.webp",
+        "width": 400,
+        "bytes": 41068
+      },
+      {
+        "url": "/assets/responsive/penguinbox-640.webp",
+        "width": 640,
+        "bytes": 84620
+      },
+      {
+        "url": "/assets/responsive/penguinbox-960.webp",
+        "width": 960,
+        "bytes": 157742
+      },
+      {
+        "url": "/assets/responsive/penguinbox-1024.webp",
+        "width": 1024,
+        "bytes": 177478
+      }
+    ],
+    "originalBytes": 289777
+  },
+  "download.jpg": {
+    "width": 830,
+    "height": 384,
+    "avif": [
+      {
+        "url": "/assets/responsive/download-400.avif",
+        "width": 400,
+        "bytes": 6343
+      },
+      {
+        "url": "/assets/responsive/download-640.avif",
+        "width": 640,
+        "bytes": 11548
+      },
+      {
+        "url": "/assets/responsive/download-830.avif",
+        "width": 830,
+        "bytes": 16763
+      }
+    ],
+    "webp": [
+      {
+        "url": "/assets/responsive/download-400.webp",
+        "width": 400,
+        "bytes": 8280
+      },
+      {
+        "url": "/assets/responsive/download-640.webp",
+        "width": 640,
+        "bytes": 14650
+      },
+      {
+        "url": "/assets/responsive/download-830.webp",
+        "width": 830,
+        "bytes": 21650
+      }
+    ],
+    "originalBytes": 25080
+  },
+  "space.jpg": {
+    "width": 2560,
+    "height": 1440,
+    "avif": [
+      {
+        "url": "/assets/responsive/space-400.avif",
+        "width": 400,
+        "bytes": 10720
+      },
+      {
+        "url": "/assets/responsive/space-640.avif",
+        "width": 640,
+        "bytes": 22390
+      },
+      {
+        "url": "/assets/responsive/space-960.avif",
+        "width": 960,
+        "bytes": 39821
+      },
+      {
+        "url": "/assets/responsive/space-1280.avif",
+        "width": 1280,
+        "bytes": 59330
+      },
+      {
+        "url": "/assets/responsive/space-1600.avif",
+        "width": 1600,
+        "bytes": 78109
+      },
+      {
+        "url": "/assets/responsive/space-2560.avif",
+        "width": 2560,
+        "bytes": 145250
+      }
+    ],
+    "webp": [
+      {
+        "url": "/assets/responsive/space-400.webp",
+        "width": 400,
+        "bytes": 14170
+      },
+      {
+        "url": "/assets/responsive/space-640.webp",
+        "width": 640,
+        "bytes": 29894
+      },
+      {
+        "url": "/assets/responsive/space-960.webp",
+        "width": 960,
+        "bytes": 52920
+      },
+      {
+        "url": "/assets/responsive/space-1280.webp",
+        "width": 1280,
+        "bytes": 78580
+      },
+      {
+        "url": "/assets/responsive/space-1600.webp",
+        "width": 1600,
+        "bytes": 106626
+      },
+      {
+        "url": "/assets/responsive/space-2560.webp",
+        "width": 2560,
+        "bytes": 203526
+      }
+    ],
+    "originalBytes": 366048
+  },
+  "osm.jpg": {
+    "width": 480,
+    "height": 336,
+    "avif": [
+      {
+        "url": "/assets/responsive/osm-400.avif",
+        "width": 400,
+        "bytes": 21705
+      },
+      {
+        "url": "/assets/responsive/osm-480.avif",
+        "width": 480,
+        "bytes": 30490
+      }
+    ],
+    "webp": [
+      {
+        "url": "/assets/responsive/osm-400.webp",
+        "width": 400,
+        "bytes": 31374
+      },
+      {
+        "url": "/assets/responsive/osm-480.webp",
+        "width": 480,
+        "bytes": 42108
+      }
+    ],
+    "originalBytes": 41590
+  },
+  "arena.jpg": {
+    "width": 480,
+    "height": 360,
+    "avif": [
+      {
+        "url": "/assets/responsive/arena-400.avif",
+        "width": 400,
+        "bytes": 23714
+      },
+      {
+        "url": "/assets/responsive/arena-480.avif",
+        "width": 480,
+        "bytes": 27479
+      }
+    ],
+    "webp": [
+      {
+        "url": "/assets/responsive/arena-400.webp",
+        "width": 400,
+        "bytes": 36128
+      },
+      {
+        "url": "/assets/responsive/arena-480.webp",
+        "width": 480,
+        "bytes": 44822
+      }
+    ],
+    "originalBytes": 26199,
+    "preserveOriginal": true
+  },
+  "classic.png": {
+    "width": 320,
+    "height": 200,
+    "avif": [
+      {
+        "url": "/assets/responsive/classic-320.avif",
+        "width": 320,
+        "bytes": 24965
+      }
+    ],
+    "webp": [
+      {
+        "url": "/assets/responsive/classic-320.webp",
+        "width": 320,
+        "bytes": 31588
+      }
+    ],
+    "originalBytes": 6622,
+    "preserveOriginal": true
+  },
+  "sevenmages-white.png": {
+    "width": 704,
+    "height": 825,
+    "avif": [
+      {
+        "url": "/assets/responsive/sevenmages-white-64.avif",
+        "width": 64,
+        "bytes": 1748
+      },
+      {
+        "url": "/assets/responsive/sevenmages-white-128.avif",
+        "width": 128,
+        "bytes": 3192
+      },
+      {
+        "url": "/assets/responsive/sevenmages-white-192.avif",
+        "width": 192,
+        "bytes": 4475
+      },
+      {
+        "url": "/assets/responsive/sevenmages-white-704.avif",
+        "width": 704,
+        "bytes": 9643
+      }
+    ],
+    "webp": [
+      {
+        "url": "/assets/responsive/sevenmages-white-64.webp",
+        "width": 64,
+        "bytes": 1844
+      },
+      {
+        "url": "/assets/responsive/sevenmages-white-128.webp",
+        "width": 128,
+        "bytes": 3960
+      },
+      {
+        "url": "/assets/responsive/sevenmages-white-192.webp",
+        "width": 192,
+        "bytes": 6002
+      },
+      {
+        "url": "/assets/responsive/sevenmages-white-704.webp",
+        "width": 704,
+        "bytes": 11810
+      }
+    ],
+    "originalBytes": 28668
+  }
+}

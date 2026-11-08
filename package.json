@@ -1,1 +1,19 @@
-{"name":"sevenmages-website","version":"1.0.0","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","check":"node scripts/check.mjs","test":"npm run build && npm run check","preview":"python3 -m http.server 4173 --directory dist"},"engines":{"node":">=22"},"devDependencies":{"sharp":"^0.35.5"}}
+{
+  "name": "sevenmages-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "test": "npm run build && npm run check",
+    "preview": "python3 -m http.server 4173 --directory dist",
+    "images": "node scripts/images.mjs && node scripts/hero-mobile.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.5"
+  }
+}
